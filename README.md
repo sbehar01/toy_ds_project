@@ -1,2 +1,3 @@
 # toy_ds_project
-author Shivam
+
+Author: Shivam Beharie
